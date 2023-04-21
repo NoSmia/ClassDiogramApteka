@@ -1,0 +1,114 @@
+﻿  CashRegister.cpp
+C:\Users\snake\Desktop\testfr\MedCard.h(18,12): error C2001: newline в константе
+C:\Users\snake\Desktop\testfr\MedCard.h(18,12): error C2015: слишком много знаков в константе
+C:\Users\snake\Desktop\testfr\MedCard.h(18,12): error C2143: синтаксическая ошибка: отсутствие ";" перед "константа"
+C:\Users\snake\Desktop\testfr\MedCard.h(20,52): error C2238: непредвиденные лексемы перед ";"
+C:\Users\snake\Desktop\testfr\MedCard.h(23,12): error C2001: newline в константе
+C:\Users\snake\Desktop\testfr\MedCard.h(23,12): error C2015: слишком много знаков в константе
+C:\Users\snake\Desktop\testfr\MedCard.h(23,12): error C2143: синтаксическая ошибка: отсутствие ";" перед "константа"
+C:\Users\snake\Desktop\testfr\MedCard.h(24,18): error C2238: непредвиденные лексемы перед ";"
+C:\Users\snake\Desktop\testfr\Receipt.h(21,68): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "A"
+C:\Users\snake\Desktop\testfr\Receipt.h(21,68): error C3646: A: неизвестный спецификатор переопределения
+C:\Users\snake\Desktop\testfr\Receipt.h(21,69): error C2059: синтаксическая ошибка: )
+C:\Users\snake\Desktop\testfr\CashRegister.h(21,54): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "A"
+C:\Users\snake\Desktop\testfr\CashRegister.h(21,54): error C3646: A: неизвестный спецификатор переопределения
+C:\Users\snake\Desktop\testfr\CashRegister.h(21,55): error C2059: синтаксическая ошибка: )
+C:\Users\snake\Desktop\testfr\CashRegister.cpp(25,67): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "A"
+C:\Users\snake\Desktop\testfr\CashRegister.cpp(25,67): error C3646: A: неизвестный спецификатор переопределения
+C:\Users\snake\Desktop\testfr\CashRegister.cpp(25,68): error C2059: синтаксическая ошибка: )
+  Client.cpp
+C:\Users\snake\Desktop\testfr\MedCard.h(18,12): error C2001: newline в константе
+C:\Users\snake\Desktop\testfr\MedCard.h(18,12): error C2015: слишком много знаков в константе
+C:\Users\snake\Desktop\testfr\MedCard.h(18,12): error C2143: синтаксическая ошибка: отсутствие ";" перед "константа"
+C:\Users\snake\Desktop\testfr\MedCard.h(20,52): error C2238: непредвиденные лексемы перед ";"
+C:\Users\snake\Desktop\testfr\MedCard.h(23,12): error C2001: newline в константе
+C:\Users\snake\Desktop\testfr\MedCard.h(23,12): error C2015: слишком много знаков в константе
+C:\Users\snake\Desktop\testfr\MedCard.h(23,12): error C2143: синтаксическая ошибка: отсутствие ";" перед "константа"
+C:\Users\snake\Desktop\testfr\MedCard.h(24,18): error C2238: непредвиденные лексемы перед ";"
+C:\Users\snake\Desktop\testfr\Registry.h(19,48): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "A"
+C:\Users\snake\Desktop\testfr\Registry.h(19,48): error C3646: A: неизвестный спецификатор переопределения
+C:\Users\snake\Desktop\testfr\Registry.h(19,49): error C2059: синтаксическая ошибка: )
+C:\Users\snake\Desktop\testfr\Clinic.h(22,58): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "A"
+C:\Users\snake\Desktop\testfr\Clinic.h(22,58): error C3646: A: неизвестный спецификатор переопределения
+C:\Users\snake\Desktop\testfr\Clinic.h(22,59): error C2059: синтаксическая ошибка: )
+C:\Users\snake\Desktop\testfr\Receipt.h(21,68): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "A"
+C:\Users\snake\Desktop\testfr\Receipt.h(21,68): error C3646: A: неизвестный спецификатор переопределения
+C:\Users\snake\Desktop\testfr\Receipt.h(21,69): error C2059: синтаксическая ошибка: )
+C:\Users\snake\Desktop\testfr\CashRegister.h(21,54): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "A"
+C:\Users\snake\Desktop\testfr\CashRegister.h(21,54): error C3646: A: неизвестный спецификатор переопределения
+C:\Users\snake\Desktop\testfr\CashRegister.h(21,55): error C2059: синтаксическая ошибка: )
+C:\Users\snake\Desktop\testfr\Client.h(26,39): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "A"
+C:\Users\snake\Desktop\testfr\Client.h(26,39): error C3646: A: неизвестный спецификатор переопределения
+C:\Users\snake\Desktop\testfr\Client.h(26,40): error C2059: синтаксическая ошибка: )
+C:\Users\snake\Desktop\testfr\Client.cpp(31,46): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "A"
+C:\Users\snake\Desktop\testfr\Client.cpp(31,46): error C3646: A: неизвестный спецификатор переопределения
+C:\Users\snake\Desktop\testfr\Client.cpp(31,47): error C2059: синтаксическая ошибка: )
+  Clinic.cpp
+C:\Users\snake\Desktop\testfr\Registry.h(19,48): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "A"
+C:\Users\snake\Desktop\testfr\Registry.h(19,48): error C3646: A: неизвестный спецификатор переопределения
+C:\Users\snake\Desktop\testfr\Registry.h(19,49): error C2059: синтаксическая ошибка: )
+C:\Users\snake\Desktop\testfr\Clinic.h(22,58): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "A"
+C:\Users\snake\Desktop\testfr\Clinic.h(22,58): error C3646: A: неизвестный спецификатор переопределения
+C:\Users\snake\Desktop\testfr\Clinic.h(22,59): error C2059: синтаксическая ошибка: )
+C:\Users\snake\Desktop\testfr\Clinic.cpp(31,65): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "A"
+C:\Users\snake\Desktop\testfr\Clinic.cpp(31,65): error C3646: A: неизвестный спецификатор переопределения
+C:\Users\snake\Desktop\testfr\Clinic.cpp(31,66): error C2059: синтаксическая ошибка: )
+  Database.cpp
+C:\Users\snake\Desktop\testfr\Database.h(11,10): fatal  error C1083: Не удается открыть файл включение: Договор.h: No such file or directory,
+  Magazine.cpp
+C:\Users\snake\Desktop\testfr\Registry.h(19,48): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "A"
+C:\Users\snake\Desktop\testfr\Registry.h(19,48): error C3646: A: неизвестный спецификатор переопределения
+C:\Users\snake\Desktop\testfr\Registry.h(19,49): error C2059: синтаксическая ошибка: )
+  MedCard.cpp
+C:\Users\snake\Desktop\testfr\MedCard.h(18,12): error C2001: newline в константе
+C:\Users\snake\Desktop\testfr\MedCard.h(18,12): error C2015: слишком много знаков в константе
+C:\Users\snake\Desktop\testfr\MedCard.h(18,12): error C2143: синтаксическая ошибка: отсутствие ";" перед "константа"
+C:\Users\snake\Desktop\testfr\MedCard.h(20,52): error C2238: непредвиденные лексемы перед ";"
+C:\Users\snake\Desktop\testfr\MedCard.h(23,12): error C2001: newline в константе
+C:\Users\snake\Desktop\testfr\MedCard.h(23,12): error C2015: слишком много знаков в константе
+C:\Users\snake\Desktop\testfr\MedCard.h(23,12): error C2143: синтаксическая ошибка: отсутствие ";" перед "константа"
+C:\Users\snake\Desktop\testfr\MedCard.h(24,18): error C2238: непредвиденные лексемы перед ";"
+C:\Users\snake\Desktop\testfr\MedCard.cpp(25,20): error C2001: newline в константе
+C:\Users\snake\Desktop\testfr\MedCard.cpp(25,20): error C2015: слишком много знаков в константе
+C:\Users\snake\Desktop\testfr\MedCard.cpp(25,20): error C2143: синтаксическая ошибка: отсутствие ";" перед "константа"
+C:\Users\snake\Desktop\testfr\MedCard.cpp(25,5): error C2761: "int MedCard::doctor": повторное объявление члена запрещено.
+C:\Users\snake\Desktop\testfr\MedCard.cpp(25,20): error C2059: синтаксическая ошибка: константа
+C:\Users\snake\Desktop\testfr\MedCard.cpp(28,1): error C2059: синтаксическая ошибка: }
+C:\Users\snake\Desktop\testfr\MedCard.cpp(28,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Users\snake\Desktop\testfr\MedCard.cpp(31,14): error C2039: "enter": не является членом "MedCard".
+C:\Users\snake\Desktop\testfr\MedCard.h(11,7): message : см. объявление "MedCard"
+C:\Users\snake\Desktop\testfr\MedCard.cpp(32,51): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\snake\Desktop\testfr\MedCard.cpp(32,51): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+  Receipt.cpp
+C:\Users\snake\Desktop\testfr\MedCard.h(18,12): error C2001: newline в константе
+C:\Users\snake\Desktop\testfr\MedCard.h(18,12): error C2015: слишком много знаков в константе
+C:\Users\snake\Desktop\testfr\MedCard.h(18,12): error C2143: синтаксическая ошибка: отсутствие ";" перед "константа"
+C:\Users\snake\Desktop\testfr\MedCard.h(20,52): error C2238: непредвиденные лексемы перед ";"
+C:\Users\snake\Desktop\testfr\MedCard.h(23,12): error C2001: newline в константе
+C:\Users\snake\Desktop\testfr\MedCard.h(23,12): error C2015: слишком много знаков в константе
+C:\Users\snake\Desktop\testfr\MedCard.h(23,12): error C2143: синтаксическая ошибка: отсутствие ";" перед "константа"
+C:\Users\snake\Desktop\testfr\MedCard.h(24,18): error C2238: непредвиденные лексемы перед ";"
+C:\Users\snake\Desktop\testfr\Receipt.h(21,68): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "A"
+C:\Users\snake\Desktop\testfr\Receipt.h(21,68): error C3646: A: неизвестный спецификатор переопределения
+C:\Users\snake\Desktop\testfr\Receipt.h(21,69): error C2059: синтаксическая ошибка: )
+C:\Users\snake\Desktop\testfr\Receipt.cpp(25,76): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "A"
+C:\Users\snake\Desktop\testfr\Receipt.cpp(25,76): error C3646: A: неизвестный спецификатор переопределения
+C:\Users\snake\Desktop\testfr\Receipt.cpp(25,77): error C2059: синтаксическая ошибка: )
+  Registry.cpp
+C:\Users\snake\Desktop\testfr\Registry.h(19,48): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "A"
+C:\Users\snake\Desktop\testfr\Registry.h(19,48): error C3646: A: неизвестный спецификатор переопределения
+C:\Users\snake\Desktop\testfr\Registry.h(19,49): error C2059: синтаксическая ошибка: )
+C:\Users\snake\Desktop\testfr\Registry.cpp(31,57): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "A"
+C:\Users\snake\Desktop\testfr\Registry.cpp(31,57): error C3646: A: неизвестный спецификатор переопределения
+C:\Users\snake\Desktop\testfr\Registry.cpp(31,58): error C2059: синтаксическая ошибка: )
+  Treaty.cpp
+C:\Users\snake\Desktop\testfr\Registry.h(19,48): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "A"
+C:\Users\snake\Desktop\testfr\Registry.h(19,48): error C3646: A: неизвестный спецификатор переопределения
+C:\Users\snake\Desktop\testfr\Registry.h(19,49): error C2059: синтаксическая ошибка: )
+C:\Users\snake\Desktop\testfr\Treaty.h(22,41): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "A"
+C:\Users\snake\Desktop\testfr\Treaty.h(22,41): error C3646: A: неизвестный спецификатор переопределения
+C:\Users\snake\Desktop\testfr\Treaty.h(22,42): error C2059: синтаксическая ошибка: )
+C:\Users\snake\Desktop\testfr\Treaty.cpp(31,48): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "A"
+C:\Users\snake\Desktop\testfr\Treaty.cpp(31,48): error C3646: A: неизвестный спецификатор переопределения
+C:\Users\snake\Desktop\testfr\Treaty.cpp(31,49): error C2059: синтаксическая ошибка: )
+  Создание кода...
